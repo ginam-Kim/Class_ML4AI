@@ -3,5 +3,5 @@
 ### Author : ginam Kim
 
 ### Folders
-- week[1-16] : Exercise notebooks for corresponding weeks
+- week_[1-16] : Exercise notebooks for corresponding weeks
 - practice : Random practice of mine
