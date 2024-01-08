@@ -1,6 +1,6 @@
 # Repository for ML4AI class
 
-### Author : ginam Kim
+### Author : Ginam Kim
 
 ### Folders
 - week_[1-16] : Exercise notebooks for corresponding weeks
